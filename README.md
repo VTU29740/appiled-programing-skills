@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/VTU29740/appiled-programing-skills/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [1185-day-of-the-week](https://github.com/VTU29740/appiled-programing-skills/tree/master/1185-day-of-the-week) |
 <!---LeetCode Topics End-->
